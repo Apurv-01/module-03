@@ -1,0 +1,58 @@
+body {
+    font-size: 18px;
+    background-color: #98DDCA;
+    border-radius: 0;
+    border: 0;
+}
+#header-nav {
+    background-color: #FFD3B4;
+}
+.navbar-collapse {
+    border-top: 0;
+}
+#header-nav button {
+    margin-top: 22px;
+}
+.navbar-brand h1 {
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+.navbar-brand, .navbar-nav li a {
+    line-height: 70px;
+    height: 70px;
+    padding-top: 0;
+}
+
+#nav-list {
+    background-color: #FFAAA7;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #7d1913;
+}
+
+#nav-list a {
+    color: #1a1a1a;
+    font-size: 1.5em;
+}
+#main-content {
+    width: 95%;
+    margin-bottom: 30px;
+}
+#main-content h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+#main-content h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 1em;   
+    font-weight: bold;  
+    font-size: 1.5em;
+}
+#main-section {
+    background-color: #D5ECC2;
+    padding: 20px;
+}
